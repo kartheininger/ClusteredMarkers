@@ -1,6 +1,7 @@
 ClusteredMarkers
 ================
 Sample Project on how to cluster the markers of a map view on Android
+
 The origin of this algorithm is from [Hermann Klecker](https://github.com/HermannK/ClusteredAnnotations)
 
 
