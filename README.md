@@ -4,5 +4,9 @@ Sample Project on how to cluster the markers of a map view on Android
 
 The origin of this algorithm is from [Hermann Klecker](https://github.com/HermannK/ClusteredAnnotations)
 
-![MarkerClustering Example](http://i.imgbox.com/abyiU3LC.png)
-![MarkerClustering Example 2](http://i.imgbox.com/actHj9x7.png)
+
+Pictures
+================
+![MarkerClustering Example](http://gfxfuture.de/github/Screenshot_2013-09-08-10-21-19.png)
+![](http://gfxfuture.de/github/spacer.png)
+![MarkerClustering Example 2](http://gfxfuture.de/github/Screenshot_2013-09-08-10-21-27.png)
