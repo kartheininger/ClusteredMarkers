@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/relativelayout"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent" >
+
+<ImageView
+        android:id="@+id/myCustomClusterBmp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/cluster" />
+
+<TextView
+        android:id="@+id/cluster_count_txt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/myCustomClusterBmp"
+        android:layout_alignTop="@id/myCustomClusterBmp"
+        android:layout_alignRight="@id/myCustomClusterBmp"
+        android:layout_alignBottom="@id/myCustomClusterBmp"
+        android:layout_margin="1dp"
+        android:gravity="center"
+        android:textSize="12sp"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"/>
+
+</RelativeLayout>

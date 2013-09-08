@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MarkerClustering</string>
+    <string name="activity_maps_noMaps">Kein Google Maps auf ihrem Gerät verfügbar</string>
+</resources>
