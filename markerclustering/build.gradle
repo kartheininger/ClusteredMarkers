@@ -3,7 +3,7 @@ buildscript {
         mavenCentral()
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:0.5.+'
+        classpath 'com.android.tools.build:gradle:0.7.+'
     }
 }
 apply plugin: 'android'
@@ -22,7 +22,10 @@ android {
     }
 }
 
+
 dependencies {
-    compile 'com.android.support:support-v4:18.0.0'
-    compile 'com.google.android.gms:play-services:3.2.25'
+    compile 'com.android.support:support-v4:19.0.0'
+    compile 'com.google.android.gms:play-services:4.0.+'
 }
+
+
